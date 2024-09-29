@@ -1,0 +1,2 @@
+linode_token = "2b84a33a1d6fe55ca2c5daedd6b1a54fb4fa46c45d9a2566fcd96a63b7c7ef96"
+root_password = "AVERYstrong5EcR3TPASSW0rd"
