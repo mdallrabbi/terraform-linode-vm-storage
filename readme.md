@@ -1,16 +1,7 @@
-#### Execute The Terrafrom
+#### Execute This Provision
 ```
-/Users/tonu/TerraformProject/KubernetsClusterFormation
+git clone https://github.com/mdallrabbi/terraform-linode-vm-storage.git
+cd iaac-v-0.0.1
+chmod +x
+./execute.sh
 ```
-```
-terraform init
-```
-```
-terraform plan
-```
-```
-terraform apply
-```
-```
-terraform destroy
-```# terraform-linode-kubernetes
